@@ -1574,6 +1574,7 @@ StScrollBar StButton#hhandle:active {
   -boxpointer-gap: 5px; }
 
 .candidate-popup-content {
+  color: #a6a6a1;
   padding: 0.5em;
   spacing: 0.3em; }
 
@@ -1582,6 +1583,7 @@ StScrollBar StButton#hhandle:active {
   color: #d6d6d1; }
 
 .candidate-box {
+  color: #a6a6a1;
   padding: 0.3em 0.5em 0.3em 0.5em;
   border-radius: 4px; }
   .candidate-box:selected, .candidate-box:hover {
